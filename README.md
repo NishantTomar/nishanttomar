@@ -5,7 +5,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p> AWS / CI-CD / Terraform / Kubernetes / Docker / Ansible / GitLab / Elasticsearch / Kibana / Jenkins / Linux / Shell Scripting / Python Scripting / Vagrant / Mysql / Postgres </p> 
 
-Email me **tech.nishant@gmail.com**
+Email me **tech.nishant77@gmail.com**
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nishanttomar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nishant-tomar77/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nishant_tomar18/)  
 
