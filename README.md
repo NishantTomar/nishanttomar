@@ -3,7 +3,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p> AWS / CI-CD / Terraform / Kubernetes / Docker / Ansible / GitLab / Elasticsearch / Kibana / Jenkins / Linux / Shell Scripting / Python Scripting / Vagrant / Mysql / Postgres </p> 
+<p> AWS / CI-CD / Terraform / Kubernetes / Docker / Ansible / GitLab / Elasticsearch / Kibana / Jenkins / Linux / Shell Scripting / Python Scripting / Vagrant / Mysql / Postgres / Nginx </p> 
 
 Email me **tech.nishant77@gmail.com**
 
